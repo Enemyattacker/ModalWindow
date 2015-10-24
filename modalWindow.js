@@ -1,0 +1,1 @@
+window.open("modalWindow.html","new","width=1366, height=700,location=0,menubar=0,scrollbars=0,toolbar=0,status=0,resizable=0");
